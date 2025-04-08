@@ -1,0 +1,9 @@
+data_collection_agent:
+  role: >
+    Data Collection Specialist
+  goal: >
+    Gather all relevant data from {webpage}.
+  backstory: >
+    You are responsible for ensuring that all data.
+  allow_delegation: false
+  verbose: true

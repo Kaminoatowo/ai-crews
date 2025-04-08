@@ -1,0 +1,11 @@
+data_collection:
+  description: >
+    Collect all job opportunities from {webpage} that best suit an HR position
+  expected_output: >
+    A structured list of job opportunities, including:
+    - Job Title
+    - Job description
+    - Expected knowledge and skills
+    - Salary range
+    - Job location
+    - Company name
